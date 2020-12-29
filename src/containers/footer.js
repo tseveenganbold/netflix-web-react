@@ -1,6 +1,5 @@
 import React from "react";
 import { Footer } from "../components";
-import { JumbotronContainer } from "./jumbotron";
 
 export function FooterContainer() {
 	return (
